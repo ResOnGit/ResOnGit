@@ -8,7 +8,7 @@
 </p>
 
 
-### Inquiries!!! 
+### Inquiries
 <a href="https://www.instagram.com/farrhendra">
   <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
 </a>
