@@ -2,7 +2,7 @@
 <p>
   <samp>
     I go by Res<br>
-    Ambiguous avid coder @sata.andagi.corp<br>
+    ### Ambiguous avid coder @sata.andagi.corp<br>
     <a href="mailto:reseivedanemail@gmail.com">Email me a letter...</a>
   </samp>
 </p>
