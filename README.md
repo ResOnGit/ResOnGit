@@ -1,13 +1,12 @@
 
 <p>
   <samp>
-    I go by Res
-    </a>
-    Ambiguous avid coder @sata.andagi.corp
-    </a>
+    I go by Res<br>
+    Ambiguous avid coder @sata.andagi.corp<br>
     <a href="mailto:reseivedanemail@gmail.com">Email me a letter...</a>
   </samp>
 </p>
+
 
 ### Inquiries!!! 
 <a href="https://www.instagram.com/farrhendra">
