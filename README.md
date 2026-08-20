@@ -2,7 +2,7 @@
 <p>
   <samp>
     I go by Res<br>
-     Ambiguous avid coder @sata.andagi.corp<br>
+     Ambiguous larping coder @sata.andagi.corp<br>
     <a href="https://github.com/nikiwit/ISE_Assignment">Check out the game project!</a>
     <a href="https://github.com/ResOnGit?tab=repositories">Or not....</a>
     <a href="mailto:reseivedanemail@gmail.com">Email me a letter!</a>
