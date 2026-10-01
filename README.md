@@ -2,7 +2,7 @@
 <p>
   <samp>
     I go by Res<br>
-     Ambiguous larping coder @sata.andagi.corp<br>
+     Ambiguous larping coder @friendly.neighbourhood.revits.corp<br>
    <!-- <a href="https://github.com/nikiwit/ISE_Assignment">Check out the game project!</a> -->
     <a href="https://github.com/ResOnGit?tab=repositories"> Useless Hyperlink. Click to waste time</a><br>
     <a href="mailto:reseivedanemail@gmail.com">Email me a letter!</a>
