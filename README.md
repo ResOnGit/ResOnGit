@@ -26,6 +26,5 @@
 <br/><br/>
 
 <p align="center">
-  <samp>powered by</samp><br>
-  <img src="./assets/revits-bounce.svg" width="320" alt="revits" />
+  <samp>powered by <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/revits-bounce-dark.svg" /><img src="./assets/revits-bounce.svg" width="40" height="17" alt="revits" /></picture></samp>
 </p>
