@@ -24,3 +24,8 @@
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
 <br/><br/>
+
+<p align="center">
+  <samp>powered by</samp><br>
+  <img src="./assets/revits-bounce.svg" width="320" alt="revits" />
+</p>
