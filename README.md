@@ -2,6 +2,8 @@
 <p>
   <samp>
     I go by Res<br>
+    Mostly lean towards hardware, recently harboring into networking more, though i mostly experience as main tech support on my high school years<br>
+    TMI? not my problem lol<br>
      Ambiguous full stack larper @friendly.neighbourhood.evil.corp<br>
    <!-- <a href="https://github.com/nikiwit/ISE_Assignment">Check out the game project!</a> -->
     <a href="https://github.com/ResOnGit?tab=repositories"> Useless Hyperlink. Click to waste time</a><br>
